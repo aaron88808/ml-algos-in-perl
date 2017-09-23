@@ -6,4 +6,4 @@ Once more, with feeling!
 
 And now it will work, i just know it.
 
-
+And now in a VM, OK?
